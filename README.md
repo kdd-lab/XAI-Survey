@@ -2,4 +2,6 @@
 
 Repository for the paper "Benchmarking and Survey of Explanation Methods for Black Box Models"
 
-![alt text](https://github.com/kdd-lab/XAI-Survey/blob/readme_image.png?raw=true)
+<p align="center">
+  <img src="blob/readme_image.png" alt="Alibi Logo" width="50%">
+</p>
