@@ -24,7 +24,7 @@ from six.moves import range
 from sklearn import linear_model
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
-from tcav import utils
+from scripts.images.tcav import utils
 import tensorflow as tf
 
 

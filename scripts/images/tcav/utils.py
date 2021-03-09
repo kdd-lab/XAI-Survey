@@ -17,7 +17,7 @@ limitations under the License.
 from scipy.stats import ttest_ind
 import numpy as np
 import tensorflow as tf
-from tcav.tcav_results.results_pb2 import Result, Results
+from scripts.images.tcav.tcav_results.results_pb2 import Result, Results
 
 _KEYS = [
     "cav_key", "cav_concept", "negative_concept", "target_class", "i_up",

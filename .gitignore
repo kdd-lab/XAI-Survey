@@ -132,3 +132,5 @@ dmypy.json
 
 data
 models
+scripts/images/tcav/activations
+scripts/images/tcav/cavs
