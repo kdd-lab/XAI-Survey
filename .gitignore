@@ -130,7 +130,5 @@ dmypy.json
 .DS_Store
 .ipynb_checkpoints
 
-data
-models
 scripts/images/tcav/activations
 scripts/images/tcav/cavs
